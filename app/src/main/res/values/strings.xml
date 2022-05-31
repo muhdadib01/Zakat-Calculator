@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Calculator for Gold</string>
+    <string name="about">Calculate your annual zakat payable with this great app specifically made for you. This zakat calculator has been designed to be fast, accurate and easy to use. Easily calculate your annual zakat and save the record for your future reference</string>
+    <string name="studname1">Muhammad Faiz Bin Mohd Faisol - 2021110747</string>
+    <string name="studname2">Muhammad Adib Bin Mohd Nazri - 2021125653</string>
+    <string name="group">ICT602 - RCS2405B</string>
+    <string name="copyright">Copyright &#169; ZakatGold 2022</string>
+    <string name="link"><a href="https://github.com/muhdadib01/Zakat-Calculator">Visit our website</a></string>
+    <string-array name="type">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>
